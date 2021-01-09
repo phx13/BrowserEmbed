@@ -1,0 +1,15 @@
+D:\Projects\wpf嵌入浏览器\wpf嵌入浏览器\bin\Debug\wpf嵌入浏览器.exe.config
+D:\Projects\wpf嵌入浏览器\wpf嵌入浏览器\obj\Debug\wpf嵌入浏览器.csprojResolveAssemblyReference.cache
+D:\Projects\wpf嵌入浏览器\wpf嵌入浏览器\obj\Debug\MainWindow.baml
+D:\Projects\wpf嵌入浏览器\wpf嵌入浏览器\obj\Debug\MainWindow.g.cs
+D:\Projects\wpf嵌入浏览器\wpf嵌入浏览器\obj\Debug\App.g.cs
+D:\Projects\wpf嵌入浏览器\wpf嵌入浏览器\obj\Debug\wpf嵌入浏览器_MarkupCompile.cache
+D:\Projects\wpf嵌入浏览器\wpf嵌入浏览器\obj\Debug\wpf嵌入浏览器.g.resources
+D:\Projects\wpf嵌入浏览器\wpf嵌入浏览器\obj\Debug\wpf嵌入浏览器.Properties.Resources.resources
+D:\Projects\wpf嵌入浏览器\wpf嵌入浏览器\obj\Debug\wpf嵌入浏览器.csproj.GenerateResource.Cache
+D:\Projects\wpf嵌入浏览器\wpf嵌入浏览器\bin\Debug\wpf嵌入浏览器.exe
+D:\Projects\wpf嵌入浏览器\wpf嵌入浏览器\bin\Debug\wpf嵌入浏览器.pdb
+D:\Projects\wpf嵌入浏览器\wpf嵌入浏览器\bin\Debug\winform主体.exe
+D:\Projects\wpf嵌入浏览器\wpf嵌入浏览器\bin\Debug\winform主体.pdb
+D:\Projects\wpf嵌入浏览器\wpf嵌入浏览器\obj\Debug\wpf嵌入浏览器.exe
+D:\Projects\wpf嵌入浏览器\wpf嵌入浏览器\obj\Debug\wpf嵌入浏览器.pdb

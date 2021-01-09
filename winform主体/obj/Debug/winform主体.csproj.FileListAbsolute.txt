@@ -1,0 +1,9 @@
+D:\Projects\wpf嵌入浏览器\winform主体\bin\Debug\winform主体.exe.config
+D:\Projects\wpf嵌入浏览器\winform主体\bin\Debug\winform主体.exe
+D:\Projects\wpf嵌入浏览器\winform主体\bin\Debug\winform主体.pdb
+D:\Projects\wpf嵌入浏览器\winform主体\obj\Debug\winform主体.csprojResolveAssemblyReference.cache
+D:\Projects\wpf嵌入浏览器\winform主体\obj\Debug\winform主体.Form1.resources
+D:\Projects\wpf嵌入浏览器\winform主体\obj\Debug\winform主体.Properties.Resources.resources
+D:\Projects\wpf嵌入浏览器\winform主体\obj\Debug\winform主体.csproj.GenerateResource.Cache
+D:\Projects\wpf嵌入浏览器\winform主体\obj\Debug\winform主体.exe
+D:\Projects\wpf嵌入浏览器\winform主体\obj\Debug\winform主体.pdb
